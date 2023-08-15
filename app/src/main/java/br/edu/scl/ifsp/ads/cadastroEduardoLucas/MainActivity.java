@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
         cidadeTv.setText("");
         estadoSp.setSelection(0);
 
-        Toast.makeText(this, "Campos limpos", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Todos os campos foram limpos", Toast.LENGTH_SHORT).show();
     }
 
 }
